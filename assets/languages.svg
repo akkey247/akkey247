@@ -21,42 +21,42 @@
 
   <!-- Combined Progress Bar -->
   <g clip-path="url(#bar-clip)">
-    <rect x="24.0" y="52" width="261.66" height="10" fill="#484f58"/>
-    <rect x="285.66044913912714" y="52" width="161.67" height="10" fill="#f1e05a"/>
-    <rect x="447.33349440778073" y="52" width="135.21" height="10" fill="#e34c26"/>
-    <rect x="582.5454427917704" y="52" width="79.49" height="10" fill="#563d7c"/>
-    <rect x="662.0387208965005" y="52" width="60.33" height="10" fill="#4F5D95"/>
-    <rect x="722.3659261282417" y="52" width="53.63" height="10" fill="#484f58"/>
+    <rect x="24.0" y="52" width="294.01" height="10" fill="#e34c26"/>
+    <rect x="318.0056840993689" y="52" width="168.27" height="10" fill="#f1e05a"/>
+    <rect x="486.2753651836175" y="52" width="131.18" height="10" fill="#4F5D95"/>
+    <rect x="617.4512076734463" y="52" width="43.59" height="10" fill="#3178C6"/>
+    <rect x="661.0386316694824" y="52" width="41.93" height="10" fill="#563d7c"/>
+    <rect x="702.9651671011005" y="52" width="73.03" height="10" fill="#484f58"/>
   </g>
 
   <!-- Legend -->
   <g transform="translate(24, 84)">
-    <circle cx="5" cy="5" r="5" fill="#484f58"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Liquid</tspan><tspan fill="#7d8590" dx="14">34.8%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#e34c26"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">HTML</tspan><tspan fill="#7d8590" dx="14">39.1%</tspan></text>
   </g>
   <g transform="translate(149, 84)">
     <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">JavaScript</tspan><tspan fill="#7d8590" dx="14">21.5%</tspan></text>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">JavaScript</tspan><tspan fill="#7d8590" dx="14">22.4%</tspan></text>
   </g>
   <g transform="translate(274, 84)">
-    <circle cx="5" cy="5" r="5" fill="#e34c26"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">HTML</tspan><tspan fill="#7d8590" dx="14">18.0%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#4F5D95"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">PHP</tspan><tspan fill="#7d8590" dx="14">17.4%</tspan></text>
   </g>
   <g transform="translate(399, 84)">
-    <circle cx="5" cy="5" r="5" fill="#563d7c"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">CSS</tspan><tspan fill="#7d8590" dx="14">10.6%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#3178C6"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">TypeScript</tspan><tspan fill="#7d8590" dx="14">5.8%</tspan></text>
   </g>
   <g transform="translate(524, 84)">
-    <circle cx="5" cy="5" r="5" fill="#4F5D95"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">PHP</tspan><tspan fill="#7d8590" dx="14">8.0%</tspan></text>
+    <circle cx="5" cy="5" r="5" fill="#563d7c"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">CSS</tspan><tspan fill="#7d8590" dx="14">5.6%</tspan></text>
   </g>
   <g transform="translate(649, 84)">
     <circle cx="5" cy="5" r="5" fill="#484f58"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Other</tspan><tspan fill="#7d8590" dx="14">7.1%</tspan></text>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Other</tspan><tspan fill="#7d8590" dx="14">9.7%</tspan></text>
   </g>
 
   <!-- Decorative dots -->
-  <circle cx="760" cy="28" r="3" fill="#484f58" opacity="0.3"/>
+  <circle cx="760" cy="28" r="3" fill="#e34c26" opacity="0.3"/>
   <circle cx="772" cy="28" r="3" fill="#f1e05a" opacity="0.3"/>
-  <circle cx="784" cy="28" r="3" fill="#e34c26" opacity="0.3"/>
+  <circle cx="784" cy="28" r="3" fill="#4F5D95" opacity="0.3"/>
 </svg>
