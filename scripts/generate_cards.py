@@ -171,10 +171,10 @@ with open("assets/languages.svg", "w") as f:
 stats_badges = (
     f"<!-- PROFILE_STATS:START -->\n"
     f"<p>\n"
-    f'  <img alt="Followers" src="https://img.shields.io/badge/Followers-{followers}-181717?style=flat&logo=github" />\n'
-    f'  <img alt="Following" src="https://img.shields.io/badge/Following-{following}-181717?style=flat&logo=github" />\n'
-    f'  <img alt="Repositories" src="https://img.shields.io/badge/Repos-{repos}-181717?style=flat&logo=github" />\n'
-    f'  <img alt="Stars" src="https://img.shields.io/badge/Stars-{stars}-181717?style=flat&logo=github" />\n'
+    f'  <img alt="Followers" height="20" style="margin-right: 6px; margin-bottom: 4px" src="https://img.shields.io/badge/Followers-{followers}-181717?style=flat&logo=github" />\n'
+    f'  <img alt="Following" height="20" style="margin-right: 6px; margin-bottom: 4px" src="https://img.shields.io/badge/Following-{following}-181717?style=flat&logo=github" />\n'
+    f'  <img alt="Repositories" height="20" style="margin-right: 6px; margin-bottom: 4px" src="https://img.shields.io/badge/Repos-{repos}-181717?style=flat&logo=github" />\n'
+    f'  <img alt="Stars" height="20" style="margin-right: 6px; margin-bottom: 4px" src="https://img.shields.io/badge/Stars-{stars}-181717?style=flat&logo=github" />\n'
     f"</p>\n"
     f"<!-- PROFILE_STATS:END -->"
 )
