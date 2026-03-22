@@ -21,30 +21,30 @@
 
   <!-- Combined Progress Bar -->
   <g clip-path="url(#bar-clip)">
-    <rect x="24.0" y="52" width="259.56" height="10" fill="#484f58"/>
-    <rect x="283.5630092591479" y="52" width="160.60" height="10" fill="#f1e05a"/>
-    <rect x="444.16494445392993" y="52" width="137.66" height="10" fill="#e34c26"/>
-    <rect x="581.8206029067201" y="52" width="79.13" height="10" fill="#563d7c"/>
-    <rect x="660.9545603568031" y="52" width="60.21" height="10" fill="#4F5D95"/>
-    <rect x="721.1674013224606" y="52" width="54.83" height="10" fill="#484f58"/>
+    <rect x="24.0" y="52" width="261.66" height="10" fill="#484f58"/>
+    <rect x="285.66044913912714" y="52" width="161.67" height="10" fill="#f1e05a"/>
+    <rect x="447.33349440778073" y="52" width="135.21" height="10" fill="#e34c26"/>
+    <rect x="582.5454427917704" y="52" width="79.49" height="10" fill="#563d7c"/>
+    <rect x="662.0387208965005" y="52" width="60.33" height="10" fill="#4F5D95"/>
+    <rect x="722.3659261282417" y="52" width="53.63" height="10" fill="#484f58"/>
   </g>
 
   <!-- Legend -->
   <g transform="translate(24, 84)">
     <circle cx="5" cy="5" r="5" fill="#484f58"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Liquid</tspan><tspan fill="#7d8590" dx="14">34.5%</tspan></text>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Liquid</tspan><tspan fill="#7d8590" dx="14">34.8%</tspan></text>
   </g>
   <g transform="translate(149, 84)">
     <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">JavaScript</tspan><tspan fill="#7d8590" dx="14">21.4%</tspan></text>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">JavaScript</tspan><tspan fill="#7d8590" dx="14">21.5%</tspan></text>
   </g>
   <g transform="translate(274, 84)">
     <circle cx="5" cy="5" r="5" fill="#e34c26"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">HTML</tspan><tspan fill="#7d8590" dx="14">18.3%</tspan></text>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">HTML</tspan><tspan fill="#7d8590" dx="14">18.0%</tspan></text>
   </g>
   <g transform="translate(399, 84)">
     <circle cx="5" cy="5" r="5" fill="#563d7c"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">CSS</tspan><tspan fill="#7d8590" dx="14">10.5%</tspan></text>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">CSS</tspan><tspan fill="#7d8590" dx="14">10.6%</tspan></text>
   </g>
   <g transform="translate(524, 84)">
     <circle cx="5" cy="5" r="5" fill="#4F5D95"/>
@@ -52,7 +52,7 @@
   </g>
   <g transform="translate(649, 84)">
     <circle cx="5" cy="5" r="5" fill="#484f58"/>
-    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Other</tspan><tspan fill="#7d8590" dx="14">7.3%</tspan></text>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Other</tspan><tspan fill="#7d8590" dx="14">7.1%</tspan></text>
   </g>
 
   <!-- Decorative dots -->
