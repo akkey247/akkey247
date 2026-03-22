@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="akkey247" />
+<img src="./sample-assets/header.svg" alt="akkey247" />
 
 </div>
 
@@ -8,18 +8,16 @@
 
 <samp>📊 STATS</samp>
 
-<!-- PROFILE_STATS:START -->
 <p>
-  <img alt="Followers" src="https://img.shields.io/badge/Followers-3-181717?style=flat&logo=github" />
+  <img alt="Followers" src="https://img.shields.io/badge/Followers-5-181717?style=flat&logo=github" />
   <img alt="Following" src="https://img.shields.io/badge/Following-0-181717?style=flat&logo=github" />
   <img alt="Repositories" src="https://img.shields.io/badge/Repos-56-181717?style=flat&logo=github" />
   <img alt="Stars" src="https://img.shields.io/badge/Stars-2-181717?style=flat&logo=github" />
 </p>
-<!-- PROFILE_STATS:END -->
 
 ---
 
-<samp>🛠 TECH STACK</samp>
+### 🛠️ Tech Stack
 
 <samp>Languages</samp>
 
@@ -31,9 +29,9 @@
 <samp>CMS / Frameworks</samp>
 
 <p>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="CakePHP" src="https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
 <samp>Database</samp>
@@ -46,9 +44,9 @@
 <samp>Infrastructure</samp>
 
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
 </p>
 
 <samp>DevTools & Automation</samp>
@@ -64,16 +62,17 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="WASM" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
   <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+  <img alt="macroquad" src="https://img.shields.io/badge/macroquad-EF8D21?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
 <samp>💬 LANGUAGES</samp>
 
-<img src="./assets/languages.svg" alt="Top Languages" width="100%" />
+<img src="./sample-assets/languages.svg" alt="Top Languages" width="100%" />
 
 ---
 
 <div align="center">
-  <sub>🔄 stats auto-updated daily · GitHub Actions</sub>
+  <sub>🔄 Stats are auto-updated daily via GitHub Actions</sub>
 </div>

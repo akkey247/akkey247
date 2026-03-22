@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <clipPath id="bar-clip">
+      <rect x="24" y="52" width="752" height="10" rx="5"/>
+    </clipPath>
+  </defs>
+
+  <rect width="800" height="130" rx="12" fill="url(#bg2)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="24" y="32" font-size="15" fill="#e6edf3" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-weight="600">Top Languages</text>
+  <rect x="24" y="42" width="60" height="2" rx="1" fill="url(#accent2)"/>
+
+  <!-- Combined Progress Bar -->
+  <g clip-path="url(#bar-clip)">
+    <rect x="24.0" y="52" width="259.56" height="10" fill="#484f58"/>
+    <rect x="283.5630092591479" y="52" width="160.60" height="10" fill="#f1e05a"/>
+    <rect x="444.16494445392993" y="52" width="137.66" height="10" fill="#e34c26"/>
+    <rect x="581.8206029067201" y="52" width="79.13" height="10" fill="#563d7c"/>
+    <rect x="660.9545603568031" y="52" width="60.21" height="10" fill="#4F5D95"/>
+    <rect x="721.1674013224606" y="52" width="54.83" height="10" fill="#484f58"/>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(24, 84)">
+    <circle cx="5" cy="5" r="5" fill="#484f58"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Liquid</tspan><tspan fill="#7d8590" dx="14">34.5%</tspan></text>
+  </g>
+  <g transform="translate(149, 84)">
+    <circle cx="5" cy="5" r="5" fill="#f1e05a"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">JavaScript</tspan><tspan fill="#7d8590" dx="14">21.4%</tspan></text>
+  </g>
+  <g transform="translate(274, 84)">
+    <circle cx="5" cy="5" r="5" fill="#e34c26"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">HTML</tspan><tspan fill="#7d8590" dx="14">18.3%</tspan></text>
+  </g>
+  <g transform="translate(399, 84)">
+    <circle cx="5" cy="5" r="5" fill="#563d7c"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">CSS</tspan><tspan fill="#7d8590" dx="14">10.5%</tspan></text>
+  </g>
+  <g transform="translate(524, 84)">
+    <circle cx="5" cy="5" r="5" fill="#4F5D95"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">PHP</tspan><tspan fill="#7d8590" dx="14">8.0%</tspan></text>
+  </g>
+  <g transform="translate(649, 84)">
+    <circle cx="5" cy="5" r="5" fill="#484f58"/>
+    <text x="16" y="9" font-size="12" font-family="'Segoe UI',Helvetica,Arial,sans-serif"><tspan fill="#e6edf3">Other</tspan><tspan fill="#7d8590" dx="14">7.3%</tspan></text>
+  </g>
+
+  <!-- Decorative dots -->
+  <circle cx="760" cy="28" r="3" fill="#484f58" opacity="0.3"/>
+  <circle cx="772" cy="28" r="3" fill="#f1e05a" opacity="0.3"/>
+  <circle cx="784" cy="28" r="3" fill="#e34c26" opacity="0.3"/>
+</svg>
