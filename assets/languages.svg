@@ -21,12 +21,12 @@
 
   <!-- Combined Progress Bar -->
   <g clip-path="url(#bar-clip)">
-    <rect x="24.0" y="52" width="292.86" height="10" fill="#e34c26"/>
-    <rect x="316.8625490721148" y="52" width="167.62" height="10" fill="#f1e05a"/>
-    <rect x="484.4779742120895" y="52" width="130.67" height="10" fill="#4F5D95"/>
-    <rect x="615.1437867657997" y="52" width="43.42" height="10" fill="#3178C6"/>
-    <rect x="658.5617367896904" y="52" width="41.76" height="10" fill="#563d7c"/>
-    <rect x="700.3252560151079" y="52" width="75.67" height="10" fill="#484f58"/>
+    <rect x="24.0" y="52" width="292.76" height="10" fill="#e34c26"/>
+    <rect x="316.7610939356243" y="52" width="167.56" height="10" fill="#f1e05a"/>
+    <rect x="484.3184527714937" y="52" width="130.62" height="10" fill="#4F5D95"/>
+    <rect x="614.9389993193959" y="52" width="43.40" height="10" fill="#3178C6"/>
+    <rect x="658.3419082461583" y="52" width="41.75" height="10" fill="#563d7c"/>
+    <rect x="700.0909595119246" y="52" width="75.91" height="10" fill="#484f58"/>
   </g>
 
   <!-- Legend -->
